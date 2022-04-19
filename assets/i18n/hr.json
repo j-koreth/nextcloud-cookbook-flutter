@@ -82,7 +82,9 @@
       "time": {
         "prep": "Vrijeme pripreme:",
         "cook": "Vrijeme kuhanja:",
-        "total": "Ukupno vrijeme:"
+        "total": "Ukupno vrijeme:",
+        "hours": "Hours",
+        "minutes": "Minutes"
       },
       "nutrition": {
         "title": "Nutrition Information",
@@ -111,7 +113,7 @@
   },
   "recipe_edit": {
     "title": "Uredi recept",
-    "button": "Uredi",
+    "button": "Save",
     "errors": {
       "update_failed": "Ažuriranje nije uspjelo {error_msg}"
     }

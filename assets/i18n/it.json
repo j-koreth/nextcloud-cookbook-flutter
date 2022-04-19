@@ -82,7 +82,9 @@
       "time": {
         "prep": "Tempo di preparazione:",
         "cook": "Tempo di cottura:",
-        "total": "Tempo totale:"
+        "total": "Tempo totale:",
+        "hours": "Hours",
+        "minutes": "Minutes"
       },
       "nutrition": {
         "title": "Informazioni nutrizionali",
@@ -111,7 +113,7 @@
   },
   "recipe_edit": {
     "title": "Modifica ricetta",
-    "button": "Modifica",
+    "button": "Save",
     "errors": {
       "update_failed": "Aggiornamento non riuscito {error_msg}"
     }

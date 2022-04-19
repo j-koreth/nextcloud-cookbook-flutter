@@ -82,7 +82,9 @@
       "time": {
         "prep": "Prestatzeko denbora:",
         "cook": "Janaria prestatzeko denbora:",
-        "total": "Denbora guztira:"
+        "total": "Denbora guztira:",
+        "hours": "Hours",
+        "minutes": "Minutes"
       },
       "nutrition": {
         "title": "Nutrizio informazioa",
@@ -111,7 +113,7 @@
   },
   "recipe_edit": {
     "title": "Editatu errezeta",
-    "button": "Editatu",
+    "button": "Save",
     "errors": {
       "update_failed": "Eguneratzeak huts egin du {error_msg}"
     }

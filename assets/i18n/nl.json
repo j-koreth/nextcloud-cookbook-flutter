@@ -82,7 +82,9 @@
       "time": {
         "prep": "Voorbereidingstijd:",
         "cook": "Kooktijd:",
-        "total": "Totale tijd:"
+        "total": "Totale tijd:",
+        "hours": "Hours",
+        "minutes": "Minutes"
       },
       "nutrition": {
         "title": "Nutrition Information",
@@ -111,7 +113,7 @@
   },
   "recipe_edit": {
     "title": "Bewerk recept",
-    "button": "Bewerken",
+    "button": "Save",
     "errors": {
       "update_failed": "Bijwerken mislukt {error_msg}"
     }
