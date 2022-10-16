@@ -8,7 +8,7 @@
      height="80">](https://play.google.com/store/apps/details?id=com.nextcloud_cookbook_flutter)
 [<img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg"
      alt="Get it on the App Store"
-     height="55" style="padding-bottom: 12px; padding-left: 10px">](https://apps.apple.com/us/app/nextcloud-cookbook/id1619926634)
+     height="55">](https://apps.apple.com/us/app/nextcloud-cookbook/id1619926634)
 
 # Nextcloud Cookbook Mobile Client written in Flutter
 
